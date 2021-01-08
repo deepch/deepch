@@ -1,9 +1,21 @@
-### Hi there 👋
+### Hi there, I'm [Andrey Semochkin!](https://github.com/deepch) 👋
+
 
 My main programming languages are:
 
   - Go(lang)
 
+My second programming languages are:
+
+  - PHP
+  - JS
+  - Python
+  - C
+  - Bash
+  
+  If you have an interesting job write me by email or skype deepweb2
+  
+  
 [![Ido's github stats](https://github-readme-stats.vercel.app/api?username=deepch)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **deepch/deepch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
