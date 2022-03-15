@@ -1,6 +1,5 @@
 ### Hi there, I'm [Andrey Semochkin!](https://github.com/deepch) 👋
 
-
 My main programming languages are:
 
   - Go(lang)
@@ -43,3 +42,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">Loved the project? Please consider <a href="https://www.paypal.me/AndreySemochkin">donating</a> to help it improve!
+  
+#### ps. I hope you don't think all Russians are bad ;(, i am also against the war.
